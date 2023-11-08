@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  rooturl : 'http://localhost:8080'
+  rooturl : 'https://bankapi-q2fq.onrender.com'
+  // rooturl : 'http://localhost:8080'
 };
 
 /*
